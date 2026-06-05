@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ec4899,50:f97316,100:fbbf24&text=Prii%20Shah&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Software%20Engineering%20•%20Mobile%20Development%20•%20AI%20%2F%20ML&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ec4899,50:f97316,100:fbbf24&text=Priya%20Shah&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Software%20Engineering%20•%20Mobile%20Development%20•%20AI%20%2F%20ML&descAlignY=60"/>
 
 ### MSc IT @ Dhirubhai Ambani University
 
