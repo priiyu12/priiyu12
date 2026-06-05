@@ -92,9 +92,9 @@ Django • Python • MySQL
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=priiyu12&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ec4899&text_color=ffffff&icon_color=fbbf24"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=priiyu12&show_icons=true&hide_border=true&theme=transparent"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=priiyu12&hide_border=true&background=0d1117&ring=fbbf24&fire=ec4899&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=priiyu12&hide_border=true&theme=transparent"/>
 
 </div>
 
