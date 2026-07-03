@@ -92,8 +92,6 @@ Django • Python • MySQL
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=priiyu12&show_icons=true&hide_border=true&theme=transparent"/>
-
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=priiyu12&hide_border=true&theme=transparent"/>
 
 </div>
